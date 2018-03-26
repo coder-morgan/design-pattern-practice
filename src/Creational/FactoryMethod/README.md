@@ -15,7 +15,7 @@
 > 概念及简介均引用百度百科 [工厂方法模式](https://baike.baidu.com/item/%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F/2361103?fr=aladdin)
 
 ### UML
-![这里写图片描述](https://github.com/coder-morgan/design-pattern-practice/src/Creational/FactoryMethod/UML/FactoryMethod.png)
+![UML](https://raw.githubusercontent.com/coder-morgan/design-pattern-practice/master/src/Creational/FactoryMethod/UML/FactoryMethod.png)
 
 
 

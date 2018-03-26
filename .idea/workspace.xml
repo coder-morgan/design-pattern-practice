@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8d623a3-a6f7-4562-a227-28dd70ef6d49" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/phpunit.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Creational/FactoryMethod/AnimalInterface.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Creational/FactoryMethod/Elephant.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Creational/FactoryMethod/ElephantFactory.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Creational/FactoryMethod/FactoryMethod.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Creational/FactoryMethod/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Creational/FactoryMethod/Tests/FactoryMethodTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Creational/FactoryMethod/Tiger.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Creational/FactoryMethod/TigerFactory.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Creational/FactoryMethod/UML/FactoryMethod.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Creational/FactoryMethod/UML/FactoryMethod.uml" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/Creational/FactoryMethod/README.md" afterPath="$PROJECT_DIR$/src/Creational/FactoryMethod/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -49,11 +38,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FactoryMethodTest.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FactoryMethodTest.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Creational/FactoryMethod/Tests/FactoryMethodTest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+            <state relative-caret-position="182">
+              <caret line="7" column="47" lean-forward="false" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -93,8 +82,8 @@
         <entry file="file://$PROJECT_DIR$/src/Creational/FactoryMethod/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="208">
-                <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+              <first_editor relative-caret-position="526">
+                <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -102,56 +91,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PHP//Users/morgan/Desktop/Projects/design-pattern-practice/src/Creational/FactoryMethod" pinned="false" current-in-tab="false">
-        <entry file="uml://PHP//Users/morgan/Desktop/Projects/design-pattern-practice/src/Creational/FactoryMethod">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>PHP</ID>
-              <OriginalElement>$PROJECT_DIR$/src/Creational/FactoryMethod</OriginalElement>
-              <nodes>
-                <node x="0.0" y="123.0">\DesignPattern\Creational\FactoryMethod\TigerFactory</node>
-                <node x="0.0" y="320.0">\DesignPattern\Creational\FactoryMethod\Tiger</node>
-                <node x="47.5" y="219.0">\DesignPattern\Creational\FactoryMethod\AnimalInterface</node>
-                <node x="121.0" y="320.0">\DesignPattern\Creational\FactoryMethod\Elephant</node>
-                <node x="267.0" y="219.0">$PROJECT_DIR$/src/Creational/FactoryMethod/Tests</node>
-                <node x="96.0" y="0.0">\DesignPattern\Creational\FactoryMethod\FactoryMethod</node>
-                <node x="192.0" y="123.0">\DesignPattern\Creational\FactoryMethod\ElephantFactory</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="\DesignPattern\Creational\FactoryMethod\ElephantFactory" target="\DesignPattern\Creational\FactoryMethod\FactoryMethod">
-                  <point x="0.0" y="-25.5" />
-                  <point x="278.0" y="98.0" />
-                  <point x="225.0" y="98.0" />
-                  <point x="43.0" y="36.5" />
-                </edge>
-                <edge source="\DesignPattern\Creational\FactoryMethod\Elephant" target="\DesignPattern\Creational\FactoryMethod\AnimalInterface">
-                  <point x="0.0" y="-25.5" />
-                  <point x="171.5" y="295.0" />
-                  <point x="142.75" y="295.0" />
-                  <point x="31.75" y="25.5" />
-                </edge>
-                <edge source="\DesignPattern\Creational\FactoryMethod\Tiger" target="\DesignPattern\Creational\FactoryMethod\AnimalInterface">
-                  <point x="0.0" y="-25.5" />
-                  <point x="50.5" y="295.0" />
-                  <point x="79.25" y="295.0" />
-                  <point x="-31.75" y="25.5" />
-                </edge>
-                <edge source="\DesignPattern\Creational\FactoryMethod\TigerFactory" target="\DesignPattern\Creational\FactoryMethod\FactoryMethod">
-                  <point x="0.0" y="-25.5" />
-                  <point x="86.0" y="98.0" />
-                  <point x="139.0" y="98.0" />
-                  <point x="-43.0" y="36.5" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="1.1" x="-186.36363636363635" y="-34.04545454545456" />
-              <SelectedNodes>
-                <node>\DesignPattern\Creational\FactoryMethod\ElephantFactory</node>
-              </SelectedNodes>
-              <Categories>
-                <Category>Methods</Category>
-              </Categories>
-              <VISIBILITY>private</VISIBILITY>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="26">
+              <caret line="1" column="2" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -197,10 +142,11 @@
         <option value="$PROJECT_DIR$/phpunit.xml" />
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/src/Creational/FactoryMethod/Tests/FactoryMethodTest.php" />
-        <option value="$PROJECT_DIR$/src/Creational/FactoryMethod/README.md" />
         <option value="$PROJECT_DIR$/src/Creational/FactoryMethod/Tiger.php" />
         <option value="$PROJECT_DIR$/src/Creational/FactoryMethod/TigerFactory.php" />
         <option value="$PROJECT_DIR$/src/Creational/FactoryMethod/FactoryMethod.php" />
+        <option value="$PROJECT_DIR$/src/Creational/FactoryMethod/README.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -311,14 +257,6 @@
               <item name="Creational" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="FactoryMethod" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="design-pattern-practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-pattern-practice" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Creational" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="FactoryMethod" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Tests" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -363,12 +301,12 @@
       <option name="presentableId" value="Default" />
       <updated>1522069571741</updated>
       <workItem from="1522069572974" duration="5590000" />
-      <workItem from="1522076949388" duration="1528000" />
+      <workItem from="1522076949388" duration="1977000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7118000" />
+    <option name="totallyTimeSpent" value="7567000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="211" y="23" width="1548" height="1000" extended-state="0" />
@@ -715,17 +653,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Creational/FactoryMethod/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="208">
-            <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-16">
@@ -784,8 +711,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Creational/FactoryMethod/Tests/FactoryMethodTest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        <state relative-caret-position="182">
+          <caret line="7" column="47" lean-forward="false" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/FactoryMethod/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="526">
+            <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="2" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
           <folding />
         </state>
       </provider>
