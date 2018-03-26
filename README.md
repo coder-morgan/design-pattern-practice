@@ -1,2 +1,5 @@
 # design-pattern-practice
-设计模式练习
+🌞🌞[DesignPatternsPHP](https://github.com/domnikl/DesignPatternsPHP) 读后练习
+
+希望自己能从硬编码中走出来...
+

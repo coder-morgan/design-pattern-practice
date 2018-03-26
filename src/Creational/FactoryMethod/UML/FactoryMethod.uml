@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>PHP</ID>
+  <OriginalElement>/Users/morgan/Desktop/Projects/design-pattern-practice/src/Creational/FactoryMethod</OriginalElement>
+  <nodes>
+    <node x="0.0" y="123.0">\DesignPattern\Creational\FactoryMethod\TigerFactory</node>
+    <node x="0.0" y="320.0">\DesignPattern\Creational\FactoryMethod\Tiger</node>
+    <node x="47.5" y="219.0">\DesignPattern\Creational\FactoryMethod\AnimalInterface</node>
+    <node x="121.0" y="320.0">\DesignPattern\Creational\FactoryMethod\Elephant</node>
+    <node x="267.0" y="219.0">/Users/morgan/Desktop/Projects/design-pattern-practice/src/Creational/FactoryMethod/Tests</node>
+    <node x="96.0" y="0.0">\DesignPattern\Creational\FactoryMethod\FactoryMethod</node>
+    <node x="192.0" y="123.0">\DesignPattern\Creational\FactoryMethod\ElephantFactory</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="\DesignPattern\Creational\FactoryMethod\ElephantFactory" target="\DesignPattern\Creational\FactoryMethod\FactoryMethod">
+      <point x="0.0" y="-25.5" />
+      <point x="278.0" y="98.0" />
+      <point x="225.0" y="98.0" />
+      <point x="43.0" y="36.5" />
+    </edge>
+    <edge source="\DesignPattern\Creational\FactoryMethod\Elephant" target="\DesignPattern\Creational\FactoryMethod\AnimalInterface">
+      <point x="0.0" y="-25.5" />
+      <point x="171.5" y="295.0" />
+      <point x="142.75" y="295.0" />
+      <point x="31.75" y="25.5" />
+    </edge>
+    <edge source="\DesignPattern\Creational\FactoryMethod\Tiger" target="\DesignPattern\Creational\FactoryMethod\AnimalInterface">
+      <point x="0.0" y="-25.5" />
+      <point x="50.5" y="295.0" />
+      <point x="79.25" y="295.0" />
+      <point x="-31.75" y="25.5" />
+    </edge>
+    <edge source="\DesignPattern\Creational\FactoryMethod\TigerFactory" target="\DesignPattern\Creational\FactoryMethod\FactoryMethod">
+      <point x="0.0" y="-25.5" />
+      <point x="86.0" y="98.0" />
+      <point x="139.0" y="98.0" />
+      <point x="-43.0" y="36.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.1" x="140.0" y="130.49999999999997" />
+  <SelectedNodes>
+    <node>\DesignPattern\Creational\FactoryMethod\ElephantFactory</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Methods</Category>
+  </Categories>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
