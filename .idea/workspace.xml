@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8d623a3-a6f7-4562-a227-28dd70ef6d49" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -93,7 +94,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="26">
-              <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+              <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -236,11 +237,6 @@
               <item name="design-pattern-practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="design-pattern-practice" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="design-pattern-practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-pattern-practice" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -288,12 +284,12 @@
       <workItem from="1522069572974" duration="5590000" />
       <workItem from="1522076949388" duration="2150000" />
       <workItem from="1522112184822" duration="42000" />
-      <workItem from="1522151221791" duration="178000" />
+      <workItem from="1522151221791" duration="349000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7960000" />
+    <option name="totallyTimeSpent" value="8131000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="211" y="23" width="1548" height="1000" extended-state="0" />
@@ -834,7 +830,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26">
-          <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
           <folding />
         </state>
       </provider>
