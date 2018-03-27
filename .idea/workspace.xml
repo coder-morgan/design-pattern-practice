@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8d623a3-a6f7-4562-a227-28dd70ef6d49" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/Creational/FactoryMethod/README.md" afterPath="$PROJECT_DIR$/src/Creational/FactoryMethod/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,7 +11,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" doNotAsk="true">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
   </component>
   <component name="FileEditorManager">
@@ -22,7 +20,7 @@
         <entry file="file://$PROJECT_DIR$/src/Creational/FactoryMethod/ElephantFactory.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="234">
-              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+              <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -31,7 +29,7 @@
       <file leaf-file-name="composer.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/composer.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-16">
+            <state relative-caret-position="52">
               <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
               <folding />
             </state>
@@ -52,7 +50,7 @@
         <entry file="file://$PROJECT_DIR$/src/Creational/FactoryMethod/Tiger.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="260">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -62,7 +60,7 @@
         <entry file="file://$PROJECT_DIR$/src/Creational/FactoryMethod/TigerFactory.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="156">
-              <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+              <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -72,7 +70,7 @@
         <entry file="file://$PROJECT_DIR$/src/Creational/FactoryMethod/FactoryMethod.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="208">
-              <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+              <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -82,7 +80,7 @@
         <entry file="file://$PROJECT_DIR$/src/Creational/FactoryMethod/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="526">
+              <first_editor relative-caret-position="442">
                 <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
                 <folding />
               </first_editor>
@@ -91,7 +89,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="26">
@@ -105,17 +103,17 @@
         <entry file="file://$PROJECT_DIR$/src/Creational/FactoryMethod/Elephant.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="260">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AnimalInterface.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="AnimalInterface.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Creational/FactoryMethod/AnimalInterface.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="78">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -230,7 +228,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -244,23 +241,11 @@
               <item name="design-pattern-practice" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="design-pattern-practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-pattern-practice" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Creational" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="design-pattern-practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-pattern-practice" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Creational" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="FactoryMethod" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -301,12 +286,14 @@
       <option name="presentableId" value="Default" />
       <updated>1522069571741</updated>
       <workItem from="1522069572974" duration="5590000" />
-      <workItem from="1522076949388" duration="1977000" />
+      <workItem from="1522076949388" duration="2150000" />
+      <workItem from="1522112184822" duration="42000" />
+      <workItem from="1522151221791" duration="20000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7567000" />
+    <option name="totallyTimeSpent" value="7802000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="211" y="23" width="1548" height="1000" extended-state="0" />
@@ -345,6 +332,172 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Creational/FactoryMethod/ElephantFactory.php">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/FactoryMethod/Tests/FactoryMethodTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="47" lean-forward="false" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/FactoryMethod/Tiger.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/FactoryMethod/TigerFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/FactoryMethod/FactoryMethod.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/FactoryMethod/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="442">
+            <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="2" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/FactoryMethod/Elephant.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/FactoryMethod/AnimalInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/FactoryMethod/ElephantFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/FactoryMethod/Tests/FactoryMethodTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="47" lean-forward="false" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/FactoryMethod/Tiger.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/FactoryMethod/TigerFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/FactoryMethod/FactoryMethod.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/FactoryMethod/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="442">
+            <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="2" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/FactoryMethod/Elephant.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/FactoryMethod/AnimalInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/FactoryMethod/ElephantFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
           <folding />
@@ -355,7 +508,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -398,7 +550,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46094">
           <caret line="2485" column="27" lean-forward="false" selection-start-line="2485" selection-start-column="27" selection-end-line="2485" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -433,7 +584,7 @@
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="585.0" y="402.5" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="585.0" y="403.0" />
           <SelectedNodes />
           <Categories>
             <Category>Fields</Category>
@@ -441,6 +592,7 @@
             <Category>Constructors</Category>
             <Category>Methods</Category>
           </Categories>
+          <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
@@ -482,7 +634,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -490,7 +641,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="2485" column="27" lean-forward="false" selection-start-line="2485" selection-start-column="27" selection-end-line="2485" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -535,67 +685,19 @@
               <point x="-43.0" y="36.5" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.1" x="-186.36363636363635" y="-34.04545454545456" />
+          <settings layout="Hierarchic Group" zoom="1.1" x="-186.0" y="-34.0" />
           <SelectedNodes>
             <node>\DesignPattern\Creational\FactoryMethod\ElephantFactory</node>
           </SelectedNodes>
           <Categories>
             <Category>Methods</Category>
           </Categories>
+          <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Creational/FactoryMethod/uml/:Users:morgan:Desktop:Projects:design-pattern-practice:src:Creational:FactoryMethod.uml">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>PHP</ID>
-          <OriginalElement>$PROJECT_DIR$/src/Creational/FactoryMethod</OriginalElement>
-          <nodes>
-            <node x="192.0" y="123.0">\DesignPattern\Creational\FactoryMethod\TigerFactory</node>
-            <node x="121.0" y="320.0">\DesignPattern\Creational\FactoryMethod\Tiger</node>
-            <node x="47.5" y="219.0">\DesignPattern\Creational\FactoryMethod\AnimalInterface</node>
-            <node x="0.0" y="320.0">\DesignPattern\Creational\FactoryMethod\Elephant</node>
-            <node x="267.0" y="219.0">$PROJECT_DIR$/src/Creational/FactoryMethod/Tests</node>
-            <node x="96.0" y="0.0">\DesignPattern\Creational\FactoryMethod\FactoryMethod</node>
-            <node x="0.0" y="123.0">\DesignPattern\Creational\FactoryMethod\ElephantFactory</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="\DesignPattern\Creational\FactoryMethod\ElephantFactory" target="\DesignPattern\Creational\FactoryMethod\FactoryMethod">
-              <point x="0.0" y="-25.5" />
-              <point x="86.0" y="98.0" />
-              <point x="139.0" y="98.0" />
-              <point x="-43.0" y="36.5" />
-            </edge>
-            <edge source="\DesignPattern\Creational\FactoryMethod\Elephant" target="\DesignPattern\Creational\FactoryMethod\AnimalInterface">
-              <point x="0.0" y="-25.5" />
-              <point x="50.5" y="295.0" />
-              <point x="79.25" y="295.0" />
-              <point x="-31.75" y="25.5" />
-            </edge>
-            <edge source="\DesignPattern\Creational\FactoryMethod\TigerFactory" target="\DesignPattern\Creational\FactoryMethod\FactoryMethod">
-              <point x="0.0" y="-25.5" />
-              <point x="278.0" y="98.0" />
-              <point x="225.0" y="98.0" />
-              <point x="43.0" y="36.5" />
-            </edge>
-            <edge source="\DesignPattern\Creational\FactoryMethod\Tiger" target="\DesignPattern\Creational\FactoryMethod\AnimalInterface">
-              <point x="0.0" y="-25.5" />
-              <point x="171.5" y="295.0" />
-              <point x="142.75" y="295.0" />
-              <point x="31.75" y="25.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.1" x="140.0" y="130.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Methods</Category>
-          </Categories>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/FactoryMethod/uml/:Users:morgan:Desktop:Projects:design-pattern-practice:src:Creational:FactoryMethod.uml" />
     <entry file="file://$PROJECT_DIR$/src/Creational/FactoryMethod/UML/FactoryMethod.uml">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -624,26 +726,27 @@
               <point x="142.75" y="295.0" />
               <point x="31.75" y="25.5" />
             </edge>
-            <edge source="\DesignPattern\Creational\FactoryMethod\TigerFactory" target="\DesignPattern\Creational\FactoryMethod\FactoryMethod">
-              <point x="0.0" y="-25.5" />
-              <point x="86.0" y="98.0" />
-              <point x="139.0" y="98.0" />
-              <point x="-43.0" y="36.5" />
-            </edge>
             <edge source="\DesignPattern\Creational\FactoryMethod\Tiger" target="\DesignPattern\Creational\FactoryMethod\AnimalInterface">
               <point x="0.0" y="-25.5" />
               <point x="50.5" y="295.0" />
               <point x="79.25" y="295.0" />
               <point x="-31.75" y="25.5" />
             </edge>
+            <edge source="\DesignPattern\Creational\FactoryMethod\TigerFactory" target="\DesignPattern\Creational\FactoryMethod\FactoryMethod">
+              <point x="0.0" y="-25.5" />
+              <point x="86.0" y="98.0" />
+              <point x="139.0" y="98.0" />
+              <point x="-43.0" y="36.5" />
+            </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.1" x="-186.36363636363635" y="-34.54545454545453" />
+          <settings layout="Hierarchic Group" zoom="1.1" x="-186.0" y="-35.0" />
           <SelectedNodes>
             <node>\DesignPattern\Creational\FactoryMethod\ElephantFactory</node>
           </SelectedNodes>
           <Categories>
             <Category>Methods</Category>
           </Categories>
+          <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
@@ -655,7 +758,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-16">
+        <state relative-caret-position="52">
           <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
           <folding />
         </state>
@@ -664,7 +767,7 @@
     <entry file="file://$PROJECT_DIR$/src/Creational/FactoryMethod/TigerFactory.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
-          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -672,7 +775,7 @@
     <entry file="file://$PROJECT_DIR$/src/Creational/FactoryMethod/Tiger.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -680,7 +783,7 @@
     <entry file="file://$PROJECT_DIR$/src/Creational/FactoryMethod/FactoryMethod.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
-          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -688,7 +791,7 @@
     <entry file="file://$PROJECT_DIR$/src/Creational/FactoryMethod/ElephantFactory.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -696,15 +799,7 @@
     <entry file="file://$PROJECT_DIR$/src/Creational/FactoryMethod/Elephant.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Creational/FactoryMethod/AnimalInterface.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -720,7 +815,7 @@
     <entry file="file://$PROJECT_DIR$/src/Creational/FactoryMethod/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="526">
+          <first_editor relative-caret-position="442">
             <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
             <folding />
           </first_editor>
@@ -732,6 +827,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26">
           <caret line="1" column="2" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creational/FactoryMethod/AnimalInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
