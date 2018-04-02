@@ -23,7 +23,7 @@
 > 概念及简介均引用百度百科 [简单工厂模式](https://baike.baidu.com/item/%E7%AE%80%E5%8D%95%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F/8801727?fr=aladdin)
 
 ### UML
-![UML](https://raw.githubusercontent.com/coder-morgan/design-pattern-practice/master/src/Creational/SimpleFactory/UML/SimpleFactory.png)
+![UML](https://github.com/coder-morgan/design-pattern-practice/blob/master/src/Creational/SimpleFactory/UML/SimpleFactory.png?raw=true)
 
 
 
